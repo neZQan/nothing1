@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>Project โรงเรียนของฉัน</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #1f2937;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      margin-top: 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>โครงงานโรงเรียน</h1>
+  <p>จัดทำโดย ฟรุ๊ตตี้</p>
+</header>
+
+<section>
+  <h2>เกี่ยวกับโครงงาน</h2>
+  <p>
+    เว็บไซต์นี้จัดทำขึ้นเพื่อแสดงโครงงานของโรงเรียน
+    พร้อมอธิบายแนวคิด ขั้นตอน และผลลัพธ์ของโครงงาน
+  </p>
+</section>
+
+<section>
+  <h2>วัตถุประสงค์</h2>
+  <ul>
+    <li>เพื่อศึกษาความรู้จากการทำโครงงาน</li>
+    <li>เพื่อฝึกการทำงานเป็นระบบ</li>
+    <li>เพื่อพัฒนาทักษะด้านเทคโนโลยี</li>
+  </ul>
+</section>
+
+</body>
+</html>
